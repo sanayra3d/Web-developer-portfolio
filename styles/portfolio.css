@@ -1,0 +1,136 @@
+.nav{
+    display: flex;
+}
+.Offer h1 {
+    color: #F00;
+text-align: center;
+font-family: Inter;
+font-size: 88px;
+font-weight: 700;
+line-height: normal;
+margin-top:0px;
+}
+.Offer-description{
+color: #F00;
+margin-bottom: 0;
+text-align: center;
+font-family: Inter;
+font-size: 24px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+}
+.imgae img{
+   border: 2px solid red;
+
+}
+.imgae   {
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    justify-items: center;
+    flex-direction: column;
+    background-blend-mode: overlay;
+    margin-bottom: 20px;
+}
+.Offer-Item{
+    color: #070211;
+
+text-align: center;
+font-family: Inter;
+font-size: 48px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+margin-top: 0px;
+}
+.new-year{
+    display: flex;
+    justify-content: center;
+    width: 802.9px;
+    height: 500px;
+   flex-shrink: 0;
+}
+
+.banner{
+    background-image: url("../images/BannerImage.png");
+    height: 100vh;
+    width: 100%;
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    justify-content: center;
+    justify-items: center;
+    flex-direction: column;
+    color: #fff;
+    text-align: center;
+    background-color: rgba(0, 0, 0, 0.289);
+    background-blend-mode: overlay;
+    
+}
+.banner-title{
+    background-image: url("../images/Vectorrr.png");
+    width: 100%;
+    height: 100vh;
+    /* padding: 0 10%; */
+    background-position: center;
+   background-size: cover;
+    
+    text-align: left;
+    /* background-blend-mode: overlay; */
+    color: #fff;
+    
+}
+.banner-title-container{
+    display: flex;
+    justify-content: center;
+    justify-items: center;
+    flex-direction: column;
+    width: 100%;
+    height: 100%;
+    background-color: #07021177;
+    
+    border-radius: 8px;
+    text-align: left;
+}
+.welcoming-title{
+    font-size: 64px;
+font-style: normal;
+font-weight: 900;
+line-height: 88px;
+letter-spacing: 7.04px;
+}
+.banner-text h5{
+    color: #FFF;
+text-align: center;
+font-family: Merriweather;
+font-size: 32px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
+.banner-text h1{
+    color: #FFF;
+    text-align: center;
+    font-family: Merriweather;
+    font-size: 72px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: 95px;
+}
+
+
+.locator span{
+    color: #F00;
+    text-align: center;
+    font-size: 32px;
+}
+.location{
+    text-align: center;
+}
+.Button{
+    text-align: center;
+    color: #F00;
+    font-size: 32px;
+}
